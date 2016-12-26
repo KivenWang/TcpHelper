@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpHelper", "TcpHelper\TcpHelper.csproj", "{2B15AD44-9BFA-4CC4-95E0-19C71D0228B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{607D121C-2021-4C23-BA4D-3835365960ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{82DAA5FC-9845-448E-98AF-796B36DF2432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B15AD44-9BFA-4CC4-95E0-19C71D0228B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B15AD44-9BFA-4CC4-95E0-19C71D0228B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B15AD44-9BFA-4CC4-95E0-19C71D0228B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B15AD44-9BFA-4CC4-95E0-19C71D0228B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607D121C-2021-4C23-BA4D-3835365960ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607D121C-2021-4C23-BA4D-3835365960ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607D121C-2021-4C23-BA4D-3835365960ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607D121C-2021-4C23-BA4D-3835365960ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82DAA5FC-9845-448E-98AF-796B36DF2432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DAA5FC-9845-448E-98AF-796B36DF2432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DAA5FC-9845-448E-98AF-796B36DF2432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DAA5FC-9845-448E-98AF-796B36DF2432}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
